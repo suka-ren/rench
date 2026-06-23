@@ -22,3 +22,6 @@
 <img src="https://media.tenor.com/AXykm9LXOTQAAAAd/tyler-the-creator-chromakopia.gif"  width="100"/>
 <div id="header" align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery42/276c8870.gif?v=3fc8f5cd" width="700px"/>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
